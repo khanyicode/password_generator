@@ -1,5 +1,4 @@
-**Random Password Generator**
-**Overview**
+# andom Password Generator Overview
 
 This Python script empowers you to create strong and secure passwords effortlessly. Tailor your passwords by specifying the desired lengths for alphabets, numbers, and special characters. Strengthen your online security with unique and robust passwords.
 
