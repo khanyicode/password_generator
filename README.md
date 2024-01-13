@@ -2,11 +2,11 @@
 **Overview**
 
 This Python script empowers you to create strong and secure passwords effortlessly. Tailor your passwords by specifying the desired lengths for alphabets, numbers, and special characters. Strengthen your online security with unique and robust passwords.
-**Prerequisites**
 
+# Prerequisites
 Ensure you have Python 3.x installed on your system before running the script.
 
-**Usage**
+# Usage
 1. Open a terminal or command prompt.
 2. Navigate to the directory containing the script.
 3. Run the script using the command: `python password_generator.py`
